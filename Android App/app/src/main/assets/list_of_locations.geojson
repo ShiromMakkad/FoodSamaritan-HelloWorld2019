@@ -1,0 +1,57 @@
+﻿{
+  "features": [
+
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "1016 West Stadium Avenue, West Lafayette, IN",
+          "phone": "098-765-4321",
+          "name": "Cary Quad",
+          "hours": "6-7 P.M."
+        },
+        "geometry": {
+          "coordinates": [
+            -86.91813,
+            40.432002
+          ],
+          "type": "Point"
+        },
+        "id": "address.4499124620248822"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "1198 3rd Street, West Lafayette, IN",
+          "phone": "748-375-9302",
+          "name": "Krach Leadership Center",
+          "hours": "9 P.M. - 12 A.M."
+        },
+        "geometry": {
+          "coordinates": [
+            -86.919207,
+            40.427292
+          ],
+          "type": "Point"
+        },
+        "id": "address.5248259211768588"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "107 Mc Arthur Drive, West Lafayette, IN",
+          "name": "Harrison Residence Hall",
+          "hours": "6-9 P.M.",
+          "phone": "123-456-7890"
+        },
+        "geometry": {
+          "coordinates": [
+            -86.926777,
+            40.425037
+          ],
+          "type": "Point"
+        },
+        "id": "address.7780049914206608"
+      }
+    ],
+    "type": "FeatureCollection"
+}

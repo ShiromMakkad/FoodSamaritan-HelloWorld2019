@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FFA500</color>
-    <color name="colorPrimaryDark">#FF8C00</color>
-    <color name="colorAccent">#FFFFFF</color>
+
+    // Purple theme's colors
+    <color name="colorPrimary_purple">#FFA500</color>
+    <color name="colorPrimaryDark_purple">#FF8C00</color>
+    <color name="colorAccent_purple">#FF8C00</color>
+    <color name="navigationRouteLine_purple">#FF8C00</color>
+    <color name="cardHourAndPhoneTextColor_purple">#FF8C00</color>
+
+    // Blue theme's colors
+    <color name="colorPrimary_blue">#45AAE9</color>
+    <color name="colorPrimaryDark_blue">#268DBA</color>
+    <color name="colorAccent_blue">#9FCCE0</color>
+    <color name="navigationRouteLine_blue">#6ECAF1</color>
+    <color name="cardHourAndPhoneTextColor_blue">#1082B2</color>
+    <color name="cardHourAndPhoneHeaderTextColor_blue">#3997C0</color>
+
+
+    // Green theme's colors
+    <color name="colorPrimary_green">#5AE323</color>
+    <color name="colorPrimaryDark_green">#3BC802</color>
+    <color name="colorAccent_green">#78F645</color>
+    <color name="navigationRouteLine_green">#3BC802</color>
+    <color name="cardHourAndPhoneTextColor_green">#000000</color>
+
+    // Neutral streets theme's colors
+    <color name="colorPrimary_neutral">#FFA500</color>
+    <color name="colorPrimaryDark_neutral">#FF8C00</color>
+    <color name="colorAccent_neutral">#FF8C00</color>
+    <color name="navigationRouteLine_neutral">#FF8C00</color>
+    <color name="cardHourAndPhoneTextColor_neutral">#FF8C00</color>
+
+    // Gray theme's colors
+    <color name="colorPrimary_gray">#FFA500</color>
+    <color name="colorPrimaryDark_gray">#FF8C00</color>
+    <color name="colorAccent_gray">#FF8C00</color>
+    <color name="navigationRouteLine_gray">#FF8C00</color>
+    <color name="cardHourAndPhoneTextColor_gray">#FF8C00</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
 </resources>
