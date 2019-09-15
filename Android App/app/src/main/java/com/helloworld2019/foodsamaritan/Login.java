@@ -22,7 +22,7 @@ public class Login extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (username.getText().toString().equals("smakkad@purdue.edu") && password.getText().toString().equals("BoilerUp!")) {
-                    //startActivity(new Intent(Login.this, ReplaceThis.class));
+                    startActivity(new Intent(Login.this, RSVP.class));
                 }
             }
         });

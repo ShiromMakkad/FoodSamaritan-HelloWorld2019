@@ -11,7 +11,7 @@
         android:layout_width="300dp"
         android:layout_height="55dp"
         android:backgroundTint="#FFA500"
-        android:hint="Username"
+        android:hint="email"
         android:inputType="textPersonName"
         android:textColorHighlight="#FFA500"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.615" />
 
     <Button
-        android:id="@+id/signUpButton"
+        android:id="@+id/rsvpButton"
         android:onClick="signUpOnClick"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
@@ -36,7 +36,7 @@
         app:layout_constraintTop_toBottomOf="@+id/password" />
 
     <TextView
-        android:id="@+id/FoodSamaritan"
+        android:id="@+id/input"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="248dp"
@@ -67,7 +67,7 @@
         android:layout_width="191dp"
         android:layout_height="207dp"
         android:layout_marginBottom="8dp"
-        app:layout_constraintBottom_toTopOf="@+id/FoodSamaritan"
+        app:layout_constraintBottom_toTopOf="@+id/input"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/foodsamaritan" />
